@@ -1,5 +1,5 @@
 # Parallax-3D
-Project for Creative Labs UCLA that produces stereoscopic .gif loops from still images taken simultaneously by four offset cameras.
+Small project for Creative Labs UCLA that produces stereoscopic .gif loops from still images taken simultaneously by four offset cameras annd automated post-production using Photoshop scripts.
 
 Sample output:
 
